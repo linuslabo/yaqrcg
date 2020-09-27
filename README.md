@@ -4,7 +4,7 @@ This minuscule project aims to be a simple tool to generate QR Codes in a quick 
 
 [Try it!](https://qr.cascone.net/)
 
-![Thumb](https://qr.cascone.net/yaqrcg.png)
+![Thumb](yaqrcg.png)
 
 ## Built on/with
 
