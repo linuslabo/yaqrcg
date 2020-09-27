@@ -1,6 +1,10 @@
 # Yet Another QR Code Generator
 
-This minuscule project aims to be a simple tool to generate QR Codes in a quick and easy way for everyone and discourage the use of the many services bundled with ads, trackers and expiration times. 
+This minuscule project aims to be a simple tool to generate QR Codes in a quick and easy way for everyone and discourage the use of the many services bundled with ads, trackers and expiration times.
+
+[Try it!](https://qr.cascone.net/)
+
+![Thumb](https://qr.cascone.net/yaqrcg.png)
 
 ## Built on/with
 
@@ -9,3 +13,6 @@ This minuscule project aims to be a simple tool to generate QR Codes in a quick 
 * [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 * [soldair/node-qrcode](https://github.com/soldair/node-qrcode)
 * [fengyuanchen/vue-qrcode](https://github.com/fengyuanchen/vue-qrcode)
+
+
+Enjoy :)
