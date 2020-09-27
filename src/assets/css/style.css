@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind utilities;
+
+html {
+    @apply bg-gray-100 font-sans;
+}
+
+input, select {
+    @apply rounded border border-gray-400 text-base px-4 py-2 bg-white mb-1 w-full;
+}
+
+input:focus, select:focus {
+    @apply border-blue-500 outline-none;
+}
+
+label {
+    @apply block uppercase tracking-wide text-black text-xs font-bold mt-2;
+}
+
+a:hover {
+    @apply underline;
+}
+
+img, svg {
+    @apply w-full;
+}
