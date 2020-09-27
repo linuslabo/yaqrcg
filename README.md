@@ -2,9 +2,9 @@
 
 This minuscule project aims to be a simple tool to generate QR Codes in a quick and easy way for everyone and discourage the use of the many services bundled with ads, trackers and expiration times.
 
-[Try it!](https://qr.cascone.net/)
+[TRY IT HERE!](https://qr.cascone.net/)
 
-![Thumb](yaqrcg.png)
+![Thumb](docs/yaqrcg.png)
 
 ## Built on/with
 
